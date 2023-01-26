@@ -1,1 +1,2 @@
-# HowToDealWithRequest
+# 간단한 README 파일입니다
+# 클론하세요
